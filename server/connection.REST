@@ -1,2 +1,4 @@
 GET http://127.0.0.1:176/join-room
 Content-Type: "application/json"
+###
+GET http://localhost:176/google/auth
